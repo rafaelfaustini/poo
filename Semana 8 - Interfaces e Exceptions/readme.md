@@ -1,4 +1,4 @@
-* Semana 8 - Interfaces e Exceções
+# Semana 8 - Interfaces e Exceções
 
 ![Diagrama Classes](img/DiagramaClasses.PNG)
 
